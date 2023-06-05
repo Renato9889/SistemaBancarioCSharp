@@ -1,0 +1,15 @@
+D:\SistemaBancarioCSharp\obj\Debug\net7.0\SistemaBancarioCSharp.csproj.AssemblyReference.cache
+D:\SistemaBancarioCSharp\obj\Debug\net7.0\SistemaBancarioCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SistemaBancarioCSharp\obj\Debug\net7.0\SistemaBancarioCSharp.AssemblyInfoInputs.cache
+D:\SistemaBancarioCSharp\obj\Debug\net7.0\SistemaBancarioCSharp.AssemblyInfo.cs
+D:\SistemaBancarioCSharp\obj\Debug\net7.0\SistemaBancarioCSharp.csproj.CoreCompileInputs.cache
+D:\SistemaBancarioCSharp\bin\Debug\net7.0\SistemaBancarioCSharp.exe
+D:\SistemaBancarioCSharp\bin\Debug\net7.0\SistemaBancarioCSharp.deps.json
+D:\SistemaBancarioCSharp\bin\Debug\net7.0\SistemaBancarioCSharp.runtimeconfig.json
+D:\SistemaBancarioCSharp\bin\Debug\net7.0\SistemaBancarioCSharp.dll
+D:\SistemaBancarioCSharp\bin\Debug\net7.0\SistemaBancarioCSharp.pdb
+D:\SistemaBancarioCSharp\obj\Debug\net7.0\SistemaBancarioCSharp.dll
+D:\SistemaBancarioCSharp\obj\Debug\net7.0\refint\SistemaBancarioCSharp.dll
+D:\SistemaBancarioCSharp\obj\Debug\net7.0\SistemaBancarioCSharp.pdb
+D:\SistemaBancarioCSharp\obj\Debug\net7.0\SistemaBancarioCSharp.genruntimeconfig.cache
+D:\SistemaBancarioCSharp\obj\Debug\net7.0\ref\SistemaBancarioCSharp.dll
